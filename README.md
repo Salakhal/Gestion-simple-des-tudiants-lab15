@@ -28,4 +28,20 @@ Ce projet est structuré de manière propre et modulaire, séparant la logique m
 * **IDE :** Android Studio
 
 ---
+ ## 📸 Captures d'écran et Démo Vidéo
+
+### 📱 Captures d'écran
+Voici un aperçu de l'interface élégante de l'application :
+
+
+
+
+
+---
+
+### 🎬 Vidéo de Démonstration
+
+Découvrez comment l'application fonctionne en temps réel. Cliquez sur l'image ci-dessous pour lancer la vidéo :
+
+
 
