@@ -34,6 +34,7 @@ Ce projet est structuré de manière propre et modulaire, séparant la logique m
 Voici un aperçu de l'interface élégante de l'application :
 
 
+<img width="340" height="682" alt="image" src="https://github.com/user-attachments/assets/de10b920-0747-479a-a83b-2d4c3182879f" />
 
 
 
@@ -43,5 +44,9 @@ Voici un aperçu de l'interface élégante de l'application :
 
 Découvrez comment l'application fonctionne en temps réel. Cliquez sur l'image ci-dessous pour lancer la vidéo :
 
+
+
+
+Uploading bandicam 2026-04-02 18-43-49-364.mp4…
 
 
